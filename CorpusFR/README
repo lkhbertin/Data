@@ -1,0 +1,20 @@
+Contenu
+    - data : contient plusieurs corpus issues de collectes AMI, couvrant essentiellement la période allant
+    de fin 2019 (Décembre) à début 2020 (Janvier 2020).
+    - README: Ce fichier
+
+
+Détails
+
+    data/Coronavirus.jsonl (FR)
+        - Sujet: Coronavirus (début de la crise)
+        - 479 documents issus des moteurs de recherche Web
+    data/Quantique.jsonl (FR)
+        - Sujet: Avancées de la physique quantique
+        - 488 documents issus des moteurs de recherche Web
+    data/Mars.jsonl (FR)
+        - Sujet: Projet de exploration/colonisation de Mars
+        - 706 documents issus des moteurs de recherche Web
+    data/Epstein.jsonl
+        - Sujet: Affaire Epstein (Pédocriminalité)
+        - 221 documents issus des moteurs de recherche Web
