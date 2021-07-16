@@ -6,6 +6,9 @@ Contenu
 
 Détails
 
+    data/Conflits.jsonl (FR)
+        - Sujet: Conflits et guerres
+        - 4064 documents issus de la presse nationale en France (2021-2018)
     data/Coronavirus.jsonl (FR)
         - Sujet: Coronavirus (début de la crise)
         - 479 documents issus des moteurs de recherche Web
