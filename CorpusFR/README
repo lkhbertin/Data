@@ -5,7 +5,9 @@ Contenu
 
 
 Détails
-
+    data/IA.jsonl (FR/EN)
+        - Sujet: Intelligence artificielle
+        - 4072 documents issus de la presse nationale et internationale (2021-2020)
     data/Conflits.jsonl (FR)
         - Sujet: Conflits et guerres
         - 4064 documents issus de la presse nationale en France (2021-2018)
